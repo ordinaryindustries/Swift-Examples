@@ -1,0 +1,13 @@
+# Xcode
+**/xcuserdata/
+**/*.hmap
+**/*.ipa
+**/*.dSYM.zip
+**/*.dSYM
+timeline.xctimeline
+playground.xcworkspace
+**/.build/
+*.xcworkspace
+
+# Finder
+**/.DS_Store
